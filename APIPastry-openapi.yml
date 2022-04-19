@@ -28,17 +28,17 @@ paths:
               examples:
                 pastries_json:
                   value:
-                  - name: Baba Rhum
+                  - name: Hasan Efe
                     description: Delicieux Baba au Rhum pas calorique du tout
                     size: L
                     price: 3.2
                     status: available
-                  - name: Divorces
+                  - name: Baris Aslan
                     description: Delicieux Divorces pas calorique du tout
                     size: M
                     price: 2.8
                     status: available
-                  - name: Tartelette Fraise
+                  - name: Hazal Oz
                     description: Delicieuse Tartelette aux Fraises fraiches
                     size: S
                     price: 2
